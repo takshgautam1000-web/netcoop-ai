@@ -1,0 +1,10 @@
+pydantic>=2,<3
+pytest
+networkx
+langgraph
+fastapi
+uvicorn
+mcp[cli]==2.3.0
+streamlit
+plotly
+pandas
